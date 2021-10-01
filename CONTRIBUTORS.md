@@ -114,4 +114,12 @@
 - Bio: I'm an Engineering student.
 - GitHub: [tb-rules10](https://github.com/tb-rules10)
 
+#### Name: Ashutosh ranjan
+
+- Place: India
+- Bio: I'm a BCA student
+- GitHub: [ashutoshranjan-cmd](https://github.com/ashutoshranjan-cmd)
+
+
+
 
